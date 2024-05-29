@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "37013955548",
+    "project_id": "smart-teachers-8b97d",
+    "storage_bucket": "smart-teachers-8b97d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37013955548:android:af6ab53cae70856497a519",
+        "android_client_info": {
+          "package_name": "com.example.st"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEEfcEJPUlvsvmwHdw791h8aQvwgt2gkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
